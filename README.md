@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlekseyBibikov/AlekseyBibikov/blob/main/assets/ALEKSEYBIBIKOV.png)]
+![Header](https://github.com/AlekseyBibikov/AlekseyBibikov/blob/main/assets/ALEKSEYBIBIKOV.png)
 
 ### Hi there 👋
 
